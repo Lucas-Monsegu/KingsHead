@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 514d51b4a2a2f6b46891a7e9592a7de7
+timeCreated: 1511001852
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lithos Pro
+  fontNames:
+  - Lithos Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3339e7ffa93db834aa87e38a0eac7642, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
