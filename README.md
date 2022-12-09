@@ -2,7 +2,7 @@
 
 Kings head in a 3 man project made during a GameJam. 
 
-We won the GameJam 🎉🎉🎉
+The game jam lasted a whole weekend, night included. We won the GameJam 🎉🎉🎉
 
 There is an infinite amount of stage and the difficulty is increasing at each stage.
 # Play the Game ! 🎮
